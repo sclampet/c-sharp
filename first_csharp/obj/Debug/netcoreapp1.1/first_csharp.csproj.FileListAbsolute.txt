@@ -1,0 +1,8 @@
+/Users/scottclampet/Desktop/development/git/c#/first_csharp/bin/Debug/netcoreapp1.1/first_csharp.deps.json
+/Users/scottclampet/Desktop/development/git/c#/first_csharp/bin/Debug/netcoreapp1.1/first_csharp.runtimeconfig.json
+/Users/scottclampet/Desktop/development/git/c#/first_csharp/bin/Debug/netcoreapp1.1/first_csharp.runtimeconfig.dev.json
+/Users/scottclampet/Desktop/development/git/c#/first_csharp/bin/Debug/netcoreapp1.1/first_csharp.dll
+/Users/scottclampet/Desktop/development/git/c#/first_csharp/bin/Debug/netcoreapp1.1/first_csharp.pdb
+/Users/scottclampet/Desktop/development/git/c#/first_csharp/obj/Debug/netcoreapp1.1/first_csharp.AssemblyInfo.cs
+/Users/scottclampet/Desktop/development/git/c#/first_csharp/obj/Debug/netcoreapp1.1/first_csharp.dll
+/Users/scottclampet/Desktop/development/git/c#/first_csharp/obj/Debug/netcoreapp1.1/first_csharp.pdb
