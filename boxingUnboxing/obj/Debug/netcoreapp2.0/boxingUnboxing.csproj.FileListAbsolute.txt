@@ -1,0 +1,10 @@
+/Users/scottclampet/Desktop/development/git/c#/boxingUnboxing/bin/Debug/netcoreapp2.0/boxingUnboxing.deps.json
+/Users/scottclampet/Desktop/development/git/c#/boxingUnboxing/bin/Debug/netcoreapp2.0/boxingUnboxing.runtimeconfig.json
+/Users/scottclampet/Desktop/development/git/c#/boxingUnboxing/bin/Debug/netcoreapp2.0/boxingUnboxing.runtimeconfig.dev.json
+/Users/scottclampet/Desktop/development/git/c#/boxingUnboxing/bin/Debug/netcoreapp2.0/boxingUnboxing.dll
+/Users/scottclampet/Desktop/development/git/c#/boxingUnboxing/bin/Debug/netcoreapp2.0/boxingUnboxing.pdb
+/Users/scottclampet/Desktop/development/git/c#/boxingUnboxing/obj/Debug/netcoreapp2.0/boxingUnboxing.csproj.CoreCompileInputs.cache
+/Users/scottclampet/Desktop/development/git/c#/boxingUnboxing/obj/Debug/netcoreapp2.0/boxingUnboxing.AssemblyInfoInputs.cache
+/Users/scottclampet/Desktop/development/git/c#/boxingUnboxing/obj/Debug/netcoreapp2.0/boxingUnboxing.AssemblyInfo.cs
+/Users/scottclampet/Desktop/development/git/c#/boxingUnboxing/obj/Debug/netcoreapp2.0/boxingUnboxing.dll
+/Users/scottclampet/Desktop/development/git/c#/boxingUnboxing/obj/Debug/netcoreapp2.0/boxingUnboxing.pdb
