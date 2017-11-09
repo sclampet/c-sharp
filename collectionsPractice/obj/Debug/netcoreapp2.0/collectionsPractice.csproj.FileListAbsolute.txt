@@ -1,0 +1,10 @@
+/Users/scottclampet/Desktop/development/git/c#/collectionsPractice/bin/Debug/netcoreapp2.0/collectionsPractice.deps.json
+/Users/scottclampet/Desktop/development/git/c#/collectionsPractice/bin/Debug/netcoreapp2.0/collectionsPractice.runtimeconfig.json
+/Users/scottclampet/Desktop/development/git/c#/collectionsPractice/bin/Debug/netcoreapp2.0/collectionsPractice.runtimeconfig.dev.json
+/Users/scottclampet/Desktop/development/git/c#/collectionsPractice/bin/Debug/netcoreapp2.0/collectionsPractice.dll
+/Users/scottclampet/Desktop/development/git/c#/collectionsPractice/bin/Debug/netcoreapp2.0/collectionsPractice.pdb
+/Users/scottclampet/Desktop/development/git/c#/collectionsPractice/obj/Debug/netcoreapp2.0/collectionsPractice.csproj.CoreCompileInputs.cache
+/Users/scottclampet/Desktop/development/git/c#/collectionsPractice/obj/Debug/netcoreapp2.0/collectionsPractice.AssemblyInfoInputs.cache
+/Users/scottclampet/Desktop/development/git/c#/collectionsPractice/obj/Debug/netcoreapp2.0/collectionsPractice.AssemblyInfo.cs
+/Users/scottclampet/Desktop/development/git/c#/collectionsPractice/obj/Debug/netcoreapp2.0/collectionsPractice.dll
+/Users/scottclampet/Desktop/development/git/c#/collectionsPractice/obj/Debug/netcoreapp2.0/collectionsPractice.pdb
