@@ -6,7 +6,11 @@ namespace first_csharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            for(i = 1; i <=255; i++) {
+                System.Console.WriteLine(i);
+            }
         }
     }
 }
+
+

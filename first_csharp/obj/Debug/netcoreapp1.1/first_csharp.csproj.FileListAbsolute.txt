@@ -6,3 +6,5 @@
 /Users/scottclampet/Desktop/development/git/c#/first_csharp/obj/Debug/netcoreapp1.1/first_csharp.AssemblyInfo.cs
 /Users/scottclampet/Desktop/development/git/c#/first_csharp/obj/Debug/netcoreapp1.1/first_csharp.dll
 /Users/scottclampet/Desktop/development/git/c#/first_csharp/obj/Debug/netcoreapp1.1/first_csharp.pdb
+/Users/scottclampet/Desktop/development/git/c#/first_csharp/obj/Debug/netcoreapp1.1/first_csharp.csproj.CoreCompileInputs.cache
+/Users/scottclampet/Desktop/development/git/c#/first_csharp/obj/Debug/netcoreapp1.1/first_csharp.AssemblyInfoInputs.cache
