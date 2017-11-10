@@ -1,0 +1,10 @@
+/Users/scottclampet/Desktop/development/git/c#/fundamentals/puzzles/obj/Debug/netcoreapp2.0/puzzles.csproj.CoreCompileInputs.cache
+/Users/scottclampet/Desktop/development/git/c#/fundamentals/puzzles/obj/Debug/netcoreapp2.0/puzzles.AssemblyInfoInputs.cache
+/Users/scottclampet/Desktop/development/git/c#/fundamentals/puzzles/obj/Debug/netcoreapp2.0/puzzles.AssemblyInfo.cs
+/Users/scottclampet/Desktop/development/git/c#/fundamentals/puzzles/bin/Debug/netcoreapp2.0/puzzles.deps.json
+/Users/scottclampet/Desktop/development/git/c#/fundamentals/puzzles/bin/Debug/netcoreapp2.0/puzzles.runtimeconfig.json
+/Users/scottclampet/Desktop/development/git/c#/fundamentals/puzzles/bin/Debug/netcoreapp2.0/puzzles.runtimeconfig.dev.json
+/Users/scottclampet/Desktop/development/git/c#/fundamentals/puzzles/bin/Debug/netcoreapp2.0/puzzles.dll
+/Users/scottclampet/Desktop/development/git/c#/fundamentals/puzzles/bin/Debug/netcoreapp2.0/puzzles.pdb
+/Users/scottclampet/Desktop/development/git/c#/fundamentals/puzzles/obj/Debug/netcoreapp2.0/puzzles.dll
+/Users/scottclampet/Desktop/development/git/c#/fundamentals/puzzles/obj/Debug/netcoreapp2.0/puzzles.pdb

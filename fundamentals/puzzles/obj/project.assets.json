@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/scottclampet/Desktop/development/git/c#/fundamentals/basic13/basic13.csproj",
-      "projectName": "basic13",
-      "projectPath": "/Users/scottclampet/Desktop/development/git/c#/fundamentals/basic13/basic13.csproj",
+      "projectUniqueName": "/Users/scottclampet/Desktop/development/git/c#/fundamentals/puzzles/puzzles.csproj",
+      "projectName": "puzzles",
+      "projectPath": "/Users/scottclampet/Desktop/development/git/c#/fundamentals/puzzles/puzzles.csproj",
       "packagesPath": "/Users/scottclampet/.nuget/packages/",
-      "outputPath": "/Users/scottclampet/Desktop/development/git/c#/fundamentals/basic13/obj/",
+      "outputPath": "/Users/scottclampet/Desktop/development/git/c#/fundamentals/puzzles/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
