@@ -84,8 +84,13 @@ namespace deckOfCards
 
         public class Player
         {
-            public string name;
+            public string _name;
             public List<Card> hand = new List<Card>();
+
+            public Player(string name)
+            {
+                _name = name;
+            }
             public Card Draw(Deck fromDeck)
             {
                 Card newCard = fromDeck.Deal();
