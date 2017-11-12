@@ -1,0 +1,10 @@
+/Users/scottclampet/Desktop/development/git/c#/net_core/callingCard/bin/Debug/netcoreapp2.0/callingCard.deps.json
+/Users/scottclampet/Desktop/development/git/c#/net_core/callingCard/bin/Debug/netcoreapp2.0/callingCard.runtimeconfig.json
+/Users/scottclampet/Desktop/development/git/c#/net_core/callingCard/bin/Debug/netcoreapp2.0/callingCard.runtimeconfig.dev.json
+/Users/scottclampet/Desktop/development/git/c#/net_core/callingCard/bin/Debug/netcoreapp2.0/callingCard.dll
+/Users/scottclampet/Desktop/development/git/c#/net_core/callingCard/bin/Debug/netcoreapp2.0/callingCard.pdb
+/Users/scottclampet/Desktop/development/git/c#/net_core/callingCard/obj/Debug/netcoreapp2.0/callingCard.csproj.CoreCompileInputs.cache
+/Users/scottclampet/Desktop/development/git/c#/net_core/callingCard/obj/Debug/netcoreapp2.0/callingCard.AssemblyInfoInputs.cache
+/Users/scottclampet/Desktop/development/git/c#/net_core/callingCard/obj/Debug/netcoreapp2.0/callingCard.AssemblyInfo.cs
+/Users/scottclampet/Desktop/development/git/c#/net_core/callingCard/obj/Debug/netcoreapp2.0/callingCard.dll
+/Users/scottclampet/Desktop/development/git/c#/net_core/callingCard/obj/Debug/netcoreapp2.0/callingCard.pdb
