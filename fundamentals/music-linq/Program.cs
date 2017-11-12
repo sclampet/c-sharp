@@ -29,13 +29,7 @@ namespace ConsoleApplication
                             select Artists.First();
 
             //Display all artists with 'William' somewhere in their real name
-            var williams = Artists.Where(n => {
-                if(n.RealName.Contains("William"))
-                {
-                    return true;
-                }
-                return false;
-            });
+            var williams = Artists.Where(n => n.RealName.Contains("William"));
 
             //Display the 3 oldest artist from Atlanta
             var oldAtl = from emcees in Artists

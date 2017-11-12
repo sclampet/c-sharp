@@ -1,0 +1,10 @@
+/Users/scottclampet/Desktop/development/git/c#/fundamentals/crudMySQL/bin/Debug/netcoreapp2.0/crudMySQL.deps.json
+/Users/scottclampet/Desktop/development/git/c#/fundamentals/crudMySQL/bin/Debug/netcoreapp2.0/crudMySQL.runtimeconfig.json
+/Users/scottclampet/Desktop/development/git/c#/fundamentals/crudMySQL/bin/Debug/netcoreapp2.0/crudMySQL.runtimeconfig.dev.json
+/Users/scottclampet/Desktop/development/git/c#/fundamentals/crudMySQL/bin/Debug/netcoreapp2.0/crudMySQL.dll
+/Users/scottclampet/Desktop/development/git/c#/fundamentals/crudMySQL/bin/Debug/netcoreapp2.0/crudMySQL.pdb
+/Users/scottclampet/Desktop/development/git/c#/fundamentals/crudMySQL/obj/Debug/netcoreapp2.0/crudMySQL.csproj.CoreCompileInputs.cache
+/Users/scottclampet/Desktop/development/git/c#/fundamentals/crudMySQL/obj/Debug/netcoreapp2.0/crudMySQL.AssemblyInfoInputs.cache
+/Users/scottclampet/Desktop/development/git/c#/fundamentals/crudMySQL/obj/Debug/netcoreapp2.0/crudMySQL.AssemblyInfo.cs
+/Users/scottclampet/Desktop/development/git/c#/fundamentals/crudMySQL/obj/Debug/netcoreapp2.0/crudMySQL.dll
+/Users/scottclampet/Desktop/development/git/c#/fundamentals/crudMySQL/obj/Debug/netcoreapp2.0/crudMySQL.pdb
