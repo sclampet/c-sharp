@@ -1,0 +1,10 @@
+/Users/scottclampet/Desktop/development/git/c#/net_core/Starter_Ver2/bin/Debug/netcoreapp1.1/Starter.deps.json
+/Users/scottclampet/Desktop/development/git/c#/net_core/Starter_Ver2/bin/Debug/netcoreapp1.1/Starter.runtimeconfig.json
+/Users/scottclampet/Desktop/development/git/c#/net_core/Starter_Ver2/bin/Debug/netcoreapp1.1/Starter.runtimeconfig.dev.json
+/Users/scottclampet/Desktop/development/git/c#/net_core/Starter_Ver2/bin/Debug/netcoreapp1.1/Starter.dll
+/Users/scottclampet/Desktop/development/git/c#/net_core/Starter_Ver2/bin/Debug/netcoreapp1.1/Starter.pdb
+/Users/scottclampet/Desktop/development/git/c#/net_core/Starter_Ver2/obj/Debug/netcoreapp1.1/Starter.csproj.CoreCompileInputs.cache
+/Users/scottclampet/Desktop/development/git/c#/net_core/Starter_Ver2/obj/Debug/netcoreapp1.1/Starter.AssemblyInfoInputs.cache
+/Users/scottclampet/Desktop/development/git/c#/net_core/Starter_Ver2/obj/Debug/netcoreapp1.1/Starter.AssemblyInfo.cs
+/Users/scottclampet/Desktop/development/git/c#/net_core/Starter_Ver2/obj/Debug/netcoreapp1.1/Starter.dll
+/Users/scottclampet/Desktop/development/git/c#/net_core/Starter_Ver2/obj/Debug/netcoreapp1.1/Starter.pdb
